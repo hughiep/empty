@@ -1,9 +1,17 @@
 {
   "name": "@hugh/empty",
   "version": "0.0.0",
-  "description": "",
   "main": "index.js",
   "keywords": [],
   "author": "Hugh Nguyen <hiepnv.wt@gmail.com> (https://hughn.dev)",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hughiep/empty.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hughiep/empty/issues"
+  },
+  "homepage": "https://github.com/hughiep/empty#readme",
+  "description": ""
 }
