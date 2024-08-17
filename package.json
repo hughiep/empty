@@ -1,0 +1,9 @@
+{
+  "name": "@hugh/empty",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Hugh Nguyen <hiepnv.wt@gmail.com> (https://hughn.dev)",
+  "license": "ISC"
+}
